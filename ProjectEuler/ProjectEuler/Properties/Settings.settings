@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProjectEuler.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Path_PrimeFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">..\..\Resources\Primes.txt</Value>
+    </Setting>
+    <Setting Name="Path_OutputFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">..\..\Resources\Output.txt</Value>
+    </Setting>
+    <Setting Name="Path_CommonEnglishWords" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">..\..\Resources\CommonEnglishWords.txt</Value>
+    </Setting>
+    <Setting Name="Path_Question11Grid" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">..\..\Resources\p011_grid.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
